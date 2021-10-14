@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+server/upload/*
+server/static/outputs/*
+.ipynb_checkpoints
