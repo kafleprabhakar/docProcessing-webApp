@@ -5,7 +5,7 @@ from flask import request, Response, render_template
 import json
 
 # from scripts import checkbox_detect, table_analysis, util, template_extract
-# from utils import CustomEncoder
+from utils import CustomEncoder
 
 output_fpath = '/static/outputs/'
 
